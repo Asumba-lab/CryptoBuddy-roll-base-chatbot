@@ -18,7 +18,7 @@ A simple yet intelligent chatbot that provides cryptocurrency investment advice 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/crypto-chatbot.git
+git clone https://github.com/Asumba-lab/crypto-chatbot.git
 cd crypto-chatbot
 ```
 
