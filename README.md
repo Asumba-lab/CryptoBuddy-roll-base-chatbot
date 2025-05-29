@@ -2,19 +2,19 @@
 
 A simple yet intelligent chatbot that provides cryptocurrency investment advice based on profitability and sustainability metrics.
 
-## 🚀 Features
+##  Features
 
 - **Profitability Analysis**: Recommends cryptocurrencies based on price trends and market capitalization
 - **Sustainability Assessment**: Evaluates coins based on energy efficiency and sustainability scores
 - **Interactive Interface**: User-friendly command-line interface for easy interaction
 - **Rule-Based Decision Making**: Clear, transparent logic for investment recommendations
 
-## 📋 Prerequisites
+##  Prerequisites
 
 - Python 3.x
 - No additional libraries required (uses standard Python libraries)
 
-## 🛠️ Installation
+##  Installation
 
 1. Clone the repository:
 ```bash
@@ -27,7 +27,7 @@ cd crypto-chatbot
 python crypto_chatbot.py
 ```
 
-## 💡 Usage
+##  Usage
 
 The chatbot responds to various queries about cryptocurrency investments. Here are some example interactions:
 
@@ -44,7 +44,7 @@ CryptoBuddy: For sustainability, consider: Cardano.
 - Inquire about sustainable/eco-friendly options
 - Type 'quit' to exit the program
 
-## 🔍 How It Works
+##  How It Works
 
 The chatbot uses a predefined database (`crypto_db`) containing information about different cryptocurrencies, including:
 - Price trends
@@ -64,14 +64,14 @@ The chatbot uses a predefined database (`crypto_db`) containing information abou
    - Considers sustainability scores
    - Recommends eco-friendly options
 
-## ⚠️ Disclaimer
+##  Disclaimer
 
 This chatbot is for educational purposes only. Cryptocurrency investments carry significant risks. Always:
 - Do your own research
 - Never invest more than you can afford to lose
 - Consult with financial advisors before making investment decisions
 
-## 🎯 Future Enhancements
+##  Future Enhancements
 
 - [ ] Real-time data integration using CoinGecko API
 - [ ] Natural Language Processing (NLP) capabilities
@@ -79,19 +79,19 @@ This chatbot is for educational purposes only. Cryptocurrency investments carry 
 - [ ] More sophisticated analysis algorithms
 - [ ] Web interface
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## 📝 License
+##  License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## 👥 Authors
+##  Authors
 
-- Your Name - Initial work
+- Steve Ogolla Asumba - Initial work
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - PLP Academy for the project inspiration
 - The cryptocurrency community for valuable insights 
