@@ -79,18 +79,25 @@ This chatbot is for educational purposes only. Cryptocurrency investments carry 
 - [ ] More sophisticated analysis algorithms
 - [ ] Web interface
 
-##  Contributing
+##  Contributers
 
 - Comfort Wanjiru Ndungu
 - Adeosun Juwon
+- Emmanuella Aimalohi
 
+  ##  Contributers Emails
+  
+- comfort.ndungu.w@gmail.com
+- juwona71@gmail.com
+- emmanuellaileogben@gmail.com
+  
 ##  License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ##  Authors
 
-- Steve Ogolla Asumba - Initial work
+- Steve Ogolla Asumba 
 
 ##  Acknowledgments
 
