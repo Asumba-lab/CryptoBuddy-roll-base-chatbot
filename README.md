@@ -84,12 +84,14 @@ This chatbot is for educational purposes only. Cryptocurrency investments carry 
 - Comfort Wanjiru Ndungu
 - Adeosun Juwon
 - Emmanuella Aimalohi
+- Joram Mwanyika
 
-  ##  Contributers Emails
+ ##  Contributers Emails
   
 - comfort.ndungu.w@gmail.com
 - juwona71@gmail.com
 - emmanuellaileogben@gmail.com
+- jorammwanyika@gmail.com
   
 ##  License
 
