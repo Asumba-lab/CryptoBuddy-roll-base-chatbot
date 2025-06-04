@@ -83,7 +83,7 @@ This chatbot is for educational purposes only. Cryptocurrency investments carry 
 
 - Comfort Wanjiru Ndungu
 - Adeosun Juwon
-- Emmanuella Aimalohi
+- Emmanuella Aimalohi Ileogben
 - Joram Mwanyika
 
  ##  Contributers Emails
