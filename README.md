@@ -81,8 +81,8 @@ This chatbot is for educational purposes only. Cryptocurrency investments carry 
 
 ##  Contributing
 
-1.Comfort Wanjiru Ndungu
-2.Adeosun Juwon
+- Comfort Wanjiru Ndungu
+- Adeosun Juwon
 
 ##  License
 
